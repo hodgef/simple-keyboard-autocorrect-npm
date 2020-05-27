@@ -1,0 +1,18 @@
+{
+  "name": "simple-keyboard-autocorrect-demo",
+  "version": "1.0.0",
+  "description": "Autocorrect for simple-keyboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "simple-keyboard": "latest",
+    "simple-keyboard-autocorrect": "2.0.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
